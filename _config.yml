@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:contact@whitebeard.dev"}
   - {title: Github, icon: github, url: "https://github.com/whitebeard"}
-  - {title: Instagram, icon: instagram, url: "@whitebeard"}
+  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/whitebeard"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/whitebeard"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
